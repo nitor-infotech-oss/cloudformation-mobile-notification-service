@@ -1,0 +1,7 @@
+REGION         = "us-east-2"
+STACK_NAME     = "NotificationService"
+BUCKET_NAME    = "cloudformation-templates-2021"
+BUCKET_PREFEIX = "api-deployment"
+CF_TEMPLATE    = "deploy-lambda-template.json"
+ACCESS_KEY     = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+SECRET_KEY     = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
